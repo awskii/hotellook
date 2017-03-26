@@ -17,7 +17,7 @@ If you don't have a token, you should pass `searchID = -1` to `FetchSearchResult
 ### Example:
 
 Getting hotels in Saint-Petersburg, Russia
-```
+```go
 package main
 
 import (
